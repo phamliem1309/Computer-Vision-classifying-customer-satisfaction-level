@@ -1,5 +1,5 @@
 **Phần 1. Huấn luyện mô hình**  
-*Môi trường: Kaggle Notebooks và Google Colab
+*Môi trường: Kaggle Notebooks và Google Colab  
 1: Tải "Dữ liệu đã xử lý.zip" trong file Dataset.docx  
 2: Tham khảo code trong file Code.pdf với phương pháp transfer learning khác nhau  
 3: Tham khảo performance summary (Tổng hợp chỉ số đánh giá mô hình) khi huấn luyện mô hình với các kiến trúc khác nhau  
