@@ -6,7 +6,7 @@
 
 **Phần 2. Thử nghiệm khả năng dự đoán của mô hình**  
 *Môi trường: Visual studio code  
-*Phiên bản Python: 3.10.8  
+*Phiên bản Python: 3.8.10  
 1: Tạo thư mục chung  
 2: Đặt thư mục models, utils vào thư mục chung  
 3: Thực hiện theo requirements.txt để tải các thư viện cần thiết  
